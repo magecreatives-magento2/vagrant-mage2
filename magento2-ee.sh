@@ -17,7 +17,7 @@ init/install.sh
 sshd/install.sh
 bash/install.sh
 nginx/install.sh
-php/install-7.0.sh
+php/install-7.1.sh
 mysql/install.sh
 redis/install.sh
 memcached/install.sh
